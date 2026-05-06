@@ -212,6 +212,5 @@ arXiv:2502.21217.
 ## Author
 
 **Luca M. Possati**  
-Department of Design, Production and Management  
 University of Twente  
 l.m.possati@utwente.nl
